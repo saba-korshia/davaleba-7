@@ -38,6 +38,7 @@ li{
 .section1{
     height: 640px;
     position: relative;
+    
 }
 .img1{
     width: 100%;
@@ -70,5 +71,90 @@ li{
     font-size: 20px;
     font-style: normal;
     font-weight: 700;
+     }
+  
+     .img2{
+       margin-top: 80px;
+       margin-left: 20px;
+      
+     }
+ .section2{
+    margin-top: 500px;
+ }
+ .title1{
+    color: #372D23;
+    margin: 80px;
+    margin-left: 534px;
+   font-family: Inter;
+   font-size: 40px;
+   font-style: normal;
+   font-weight: 700; 
+   line-height: 48px; 
+ }
+ .text2{
+    color: #855C52;
+
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px;
+ }
+ .button2{
+    margin-left: 550px;
+    margin-top: 52px;
+    width: 211px;
+    height: 10px;
+    color: #FFF;
+
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: 28px;
    
-    }
+ }
+ footer{
+    background-color: #372D23;
+    height: 196px;
+    margin-top: 80px;
+ }
+.text3{
+    display: flex;
+    color: #B89278;
+    text-align: center;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+margin-left: 300px;
+margin-top: 16px;
+}
+h2{
+    color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px;
+margin-left: -800px;
+
+}
+.box{
+    margin-left: 980px;
+  
+}
+h3{
+    color: #FFF;
+
+
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px;
+
+}
